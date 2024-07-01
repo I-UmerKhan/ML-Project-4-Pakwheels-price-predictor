@@ -1,6 +1,6 @@
 # ML Project 4 Pakwheels price predictor
  
-PakWheels is a leading automotive website in Pakistan, offering a comprehensive platform for buying, selling, and researching cars. In my PakWheels price predictor project, I first focused on preprocessing the data. This involved cleaning the dataset by removing non-numerical values from numerical features, eliminating unwanted characters, and handling null values. 
+PakWheels is a leading automotive website in Pakistan, offering a comprehensive platform for buying, selling, and researching cars. In my PakWheels price predictor project, I first focused on preprocessing the data and removed the features that were not needed. 
 
 After preprocessing, I conducted exploratory data analysis (EDA) to gain insights into the data and identify any patterns or trends. This step was crucial in understanding the relationships between different features and the target variable, which in this case was the car price.
 
